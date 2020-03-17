@@ -1,0 +1,14 @@
+ul {
+	font-weight: 500;
+	font-size: 15px;
+
+}
+
+li {
+	border: 13px;
+	border-color: black;
+}
+
+span {
+	font-size: 25px;
+}
