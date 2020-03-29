@@ -1,3 +1,7 @@
+.ui-menu {
+	width: 150px;
+}
+
 ul {
 	font-weight: 500;
 	font-size: 15px;
@@ -11,4 +15,32 @@ li {
 
 span {
 	font-size: 25px;
+}
+
+#containerTable {
+	padding: 50px 120px;
+}
+
+caption {
+	text-align: left;
+	border-bottom: 1px solid #000;
+	padding-left: 10px;
+}
+
+thead {
+	text-align: center;
+}
+
+tbody tr td {
+	padding-left: 5px;
+}
+
+tr th {
+	width: 70px;
+	text-align: center;
+	border: 1px solid #000000;
+}
+
+tr td {
+	border: 1px solid #000000;
 }
